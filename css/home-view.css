@@ -9,11 +9,11 @@
     justify-content: center;
 }
 
-.hero> :nth-child(1) {
-    background-image: url("/assets/andrea-stuart-Ww_VJaCuPI0-unsplash.jpg");
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-color: rgb(96, 96, 96);
+.bg-overlay-dark {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(96, 96, 96, 0.45);
     background-blend-mode: overlay;
+    position: absolute;
+    z-index: 1;
 }
