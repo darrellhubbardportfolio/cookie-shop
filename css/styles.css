@@ -23,3 +23,58 @@ a {
 main {
     min-height: 100vh;
 }
+
+.text-almond {
+    color: rgb(234, 221, 202);
+}
+
+.bg-almond {
+    background-color: rgb(234, 221, 202);
+}
+
+.text-chocolate {
+    color: rgb(126, 63, 0);
+}
+
+.bg-chocolate {
+    background-color: rgb(126, 63, 0);
+}
+
+.text-burnt-umber {
+    color: rgb(110, 38, 14);
+}
+
+.bg-burnt-umber {
+    background-color: rgb(110, 38, 14);
+}
+
+.text-light-brown {
+    color: rgb(196, 164, 132);
+}
+
+.bg-light-brown {
+    background-color: rgb(196, 164, 132);
+}
+
+.text-cornsilk {
+    color: rgb(255, 248, 220);
+}
+
+.bg-cornsilk {
+    background-color: rgb(255, 248, 220);
+}
+.text-ivory {
+    color: rgb(255, 255, 240);
+}
+
+.bg-ivory {
+    background-color: rgb(255, 255, 240);
+}
+
+.text-oxblood {
+    color: rgb(74, 4, 4);
+}
+
+.bg-oxblood {
+    background-color: rgb(74, 4, 4);
+}
